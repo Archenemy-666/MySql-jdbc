@@ -1,0 +1,22 @@
+12) List customers whose name starting with C
+13) List customers whose name ending with s
+14) List customers whose name second character is o
+
+
+22) List customers in alphabetical order of names
+23) List customers in reverse order of names
+
+24) List customers in alphabetical order of states
+25) List customers in alphabetical order of states and then alphabetical order of city
+
+26) List customers in reverse order of states
+27) List customers in alphabetical order of states and then reverse order of city
+22) List customers in alphabetical order of names
+23) List customers in reverse order of names
+
+24) List customers in alphabetical order of states
+25) List customers in alphabetical order of states and then alphabetical order of city
+
+26) List customers in reverse order of states
+27) List customers in alphabetical order of states and then reverse order of city
+
